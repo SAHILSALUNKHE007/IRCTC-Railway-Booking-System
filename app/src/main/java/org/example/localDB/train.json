@@ -1,0 +1,1 @@
+[{"trainId":101,"stations":["Pune","Lonavala","Mumbai"],"seats":[[1,1,1,0],[1,1,1,0],[1,1,1,0]],"arival":{"Pune":"08:00:00","Lonavala":"09:30:00","Mumbai":"11:00:00"}},{"trainId":102,"stations":["Nashik","Igatpuri","Thane"],"seats":[[0,0,0,1,0],[0,0,0,1,0],[0,0,0,0,0]],"arival":{"Nashik":"07:00:00","Igatpuri":"08:30:00","Thane":"10:00:00"}}]
